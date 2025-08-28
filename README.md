@@ -1,0 +1,1 @@
+This project's goal is to create a successful trading bot. The bot utilizes supervised learning techniques while placing bids and reinforcement learning techniques for closing.
